@@ -1,2 +1,4 @@
-# viacep-it
-Projeto de automação de testes da API viacep.com.br
+ Testea funcionaia da api viacep.com.br
+
+ Projeto Java SDK8 + Maven
+ Rest-assured
